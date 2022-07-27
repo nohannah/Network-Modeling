@@ -1,0 +1,14 @@
+
+Set variable of each nod 
+list of the pum which can produce [2,4,5,6]
+Number the node from 1 to 6  
+Set the inflow and outflow values in each nod 
+call the value of array of each station to be use
+   If the inflow > the outflow
+    Print ( result will same outflow )
+  Else inflow < than outflow 
+    Print (result will same as inflow) 
+    
+Sum of nod 4 & nod 5 
+
+Assume the answer of sum is the final answer of node 6
