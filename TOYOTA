@@ -1,0 +1,6 @@
+Set number of each nod 
+Set variables of each destination   ( VN-KP,KC-KT…) 
+Compare  every destination which on cost cheaper than others to supply
+Looking for next destination which is near, low cost 
+The supply leftover transport to the other nod with low cost 
+If the nod still need more , take from the closer nod 
