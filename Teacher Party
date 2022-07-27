@@ -1,0 +1,10 @@
+#  set variable  CD,BTP,RK 
+#  list of the destination place from where to where of node ( 1-16)  
+#  i , j , k is the  teacher’s destination CD,BTP,RK 
+# list i , j , k the minutes that drive to every destination 
+# loop i , j, k   
+#  for i , j , k in list  (i, j , k>15)
+# If the destination > 15 print(false) which is over 15 minutes  
+    Else the destination <=15 Print(true) 
+      Break 
+
