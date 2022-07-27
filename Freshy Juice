@@ -1,0 +1,18 @@
+
+Set variable BTB , K.Thom , Pursat 
+List the nod from BTB ,KT , PS
+
+Compare the cost of each transportation to each nod which is the most cheaper 
+Supply from BTB  
+  If from BTB-SR < BTB-KC we will take BTB-SR 
+  Else BTB-KC>BTB-PP the destination will goes to PP
+  
+Supply from KT
+  If from KT-SR>KT-KC destination will goes to KC
+  Else KT-PP<KT-KC destination will goes to PP
+  
+Supply from PS 
+  If from PS-SR>PS-KC destination will goes to KC
+  Else PS-SR > PS-PP destination will goes to PP
+  
+Total the supply of each nod
