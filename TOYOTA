@@ -3,7 +3,7 @@ Set number of each nods
 Set variables of each destination   ( VN-KP,KC-KT…) 
   set the destination from VN to others province
       VN-KC=30$ <VN-SR:40$ supplied 160cars
-      
+        so we will choose destination from VN-KC 
    Compare  every destination which on cost cheaper than others to supply
 Looking for next destination which is near, low cost 
       Continue from KC-KT : 50$ supply 60cars
